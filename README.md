@@ -2,7 +2,8 @@
 ### 
 ### Object detection/Warehouse Unauthorized Access Detection
 
----
+The **Smart Security Camera System** is a real-time computer vision application designed to enhance warehouse security by automatically detecting and monitoring people and objects within a camera feed. The system uses **YOLOv8** for object detection and a **centroid-based tracking algorithm** to maintain object identities across video frames. It allows users to define restricted zones, configure after-hours monitoring, and specify restricted objects that should trigger security alerts. When unauthorized activity is detected, the system records the event, generates alerts, and can automatically save annotated video footage for later investigation. The project demonstrates the practical application of **computer vision, object detection, real-time video processing, object tracking, and automated security monitoring** in a real-world scenario.
+
 
 ## Project Structure
 
