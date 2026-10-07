@@ -1,0 +1,18 @@
+{
+  "zones": {},
+  "restricted_objects": [
+    "backpack",
+    "suitcase",
+    "handbag",
+    "laptop",
+    "briefcase",
+    "bag",
+    "box",
+    "package",
+    "cardboard box"
+  ],
+  "after_hours": [
+    22,
+    6
+  ]
+}

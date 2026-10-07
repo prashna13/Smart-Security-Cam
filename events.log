@@ -1,0 +1,187 @@
+2026-05-14 17:27:18  INFO  Session started: Webcam
+2026-05-14 17:27:19  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'restricted zone'
+2026-05-14 17:27:19  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 17:27:24  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'restricted zone'
+2026-05-14 17:27:27  INFO  Clip saved: recordings\clip_20260514_172719.avi
+2026-05-14 17:27:28  INFO  Session stopped.
+2026-05-14 17:27:28  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 17:27:34  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 17:27:44  INFO  Vehicle ongoing — 4 vehicle(s), 0 object(s)
+2026-05-14 17:27:54  INFO  Vehicle ongoing — 1 vehicle(s), 1 object(s)
+2026-05-14 17:27:57  INFO  Clip saved: recordings\clip_20260514_172727.avi
+2026-05-14 17:27:57  INFO  Session stopped.
+2026-05-14 17:27:57  INFO  VEHICLE DETECTED — 2 vehicle(s), 0 object(s)
+2026-05-14 17:28:22  INFO  Session started: 14490845-uhd_3840_2160_25fps.mp4
+2026-05-14 17:28:22  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'restricted zone'
+2026-05-14 17:28:27  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'restricted zone'
+2026-05-14 17:28:29  INFO  Clip saved: recordings\clip_20260514_172757.avi
+2026-05-14 17:28:29  INFO  Session stopped.
+2026-05-14 17:28:29  INFO  HUMAN DETECTED — 8 human(s), 6 vehicle(s), 0 object(s)
+2026-05-14 17:30:31  INFO  Session started: Webcam
+2026-05-14 17:30:31  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'restricted zone'
+2026-05-14 17:30:35  INFO  Clip saved: recordings\clip_20260514_172829.avi
+2026-05-14 17:30:36  INFO  Session stopped.
+2026-05-14 17:31:11  INFO  Session started: Webcam
+2026-05-14 17:31:11  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 17:31:14  INFO  Clip saved: recordings\clip_20260514_173111.avi
+2026-05-14 17:31:14  INFO  Session stopped.
+2026-05-14 17:31:14  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:04:16  INFO  Session started: 13588791_2160_3840_100fps.mkv
+2026-05-14 18:04:17  INFO  OBJECT DETECTED — 1 object(s)
+2026-05-14 18:04:27  INFO  Human ongoing — 1 human(s), 2 vehicle(s), 0 object(s)
+2026-05-14 18:04:36  INFO  Clip saved: recordings\clip_20260514_180417.avi
+2026-05-14 18:04:36  INFO  Session stopped.
+2026-05-14 18:04:36  INFO  HUMAN DETECTED — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 18:04:42  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 18:04:52  INFO  Vehicle ongoing — 10 vehicle(s), 0 object(s)
+2026-05-14 18:04:53  INFO  Clip saved: recordings\clip_20260514_180436.avi
+2026-05-14 18:04:53  INFO  Session stopped.
+2026-05-14 18:04:53  INFO  VEHICLE DETECTED — 10 vehicle(s), 0 object(s)
+2026-05-14 18:05:51  INFO  Session started: 15562388_2160_3840_50fps.mp4
+2026-05-14 18:06:01  INFO  Human ongoing — 6 human(s), 9 vehicle(s), 0 object(s)
+2026-05-14 18:06:11  INFO  Human ongoing — 5 human(s), 6 vehicle(s), 0 object(s)
+2026-05-14 18:06:17  INFO  Clip saved: recordings\clip_20260514_180453.avi
+2026-05-14 18:06:17  INFO  Session stopped.
+2026-05-14 18:06:23  INFO  Session started: Webcam
+2026-05-14 18:06:23  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 18:06:23  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 18:06:28  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 18:06:33  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 18:06:33  INFO  Human ongoing — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:06:38  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 18:06:43  INFO  Human ongoing — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:06:54  INFO  Human ongoing — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:07:04  INFO  Human ongoing — 1 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:07:14  INFO  Human ongoing — 5 human(s), 0 vehicle(s), 6 object(s)
+2026-05-14 18:07:24  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 18:07:34  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 1 object(s)
+2026-05-14 18:07:37  INFO  Clip saved: recordings\clip_20260514_180623.avi
+2026-05-14 18:07:37  INFO  Session stopped.
+2026-05-14 18:07:37  INFO  HUMAN DETECTED — 1 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 19:24:37  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 19:24:38  INFO  VEHICLE DETECTED — 1 vehicle(s), 0 object(s)
+2026-05-14 19:24:48  INFO  Vehicle ongoing — 9 vehicle(s), 0 object(s)
+2026-05-14 19:24:58  INFO  Vehicle ongoing — 3 vehicle(s), 0 object(s)
+2026-05-14 19:25:08  INFO  Vehicle ongoing — 5 vehicle(s), 0 object(s)
+2026-05-14 19:25:18  INFO  Vehicle ongoing — 2 vehicle(s), 0 object(s)
+2026-05-14 19:25:28  INFO  Clip saved: recordings\clip_20260514_192438.avi
+2026-05-14 19:25:28  INFO  Session stopped.
+2026-05-14 19:25:28  INFO  VEHICLE DETECTED — 3 vehicle(s), 0 object(s)
+2026-05-14 19:30:55  INFO  Session started: 13588791_2160_3840_100fps.mp4
+2026-05-14 19:30:56  INFO  VEHICLE DETECTED — 1 vehicle(s), 1 object(s)
+2026-05-14 19:31:06  INFO  Human ongoing — 1 human(s), 1 vehicle(s), 0 object(s)
+2026-05-14 19:31:16  INFO  Human ongoing — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 19:31:27  INFO  Human ongoing — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 19:31:35  INFO  Clip saved: recordings\clip_20260514_193056.avi
+2026-05-14 19:31:35  INFO  Session stopped.
+2026-05-14 19:31:35  INFO  HUMAN DETECTED — 1 human(s), 2 vehicle(s), 0 object(s)
+2026-05-14 19:31:41  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 19:31:51  INFO  Vehicle ongoing — 10 vehicle(s), 0 object(s)
+2026-05-14 19:32:02  INFO  Vehicle ongoing — 3 vehicle(s), 0 object(s)
+2026-05-14 19:32:08  INFO  Clip saved: recordings\clip_20260514_193135.avi
+2026-05-14 19:32:08  INFO  Session stopped.
+2026-05-14 19:32:08  INFO  VEHICLE DETECTED — 3 vehicle(s), 0 object(s)
+2026-05-14 19:33:10  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 19:33:20  INFO  Vehicle ongoing — 9 vehicle(s), 0 object(s)
+2026-05-14 19:33:30  INFO  Vehicle ongoing — 1 vehicle(s), 0 object(s)
+2026-05-14 19:33:40  INFO  Vehicle ongoing — 5 vehicle(s), 0 object(s)
+2026-05-14 19:33:43  INFO  Clip saved: recordings\clip_20260514_193208.avi
+2026-05-14 19:33:43  INFO  Session stopped.
+2026-05-14 19:36:06  INFO  Session started: 13588791_2160_3840_100fps.mp4
+2026-05-14 19:36:07  INFO  VEHICLE DETECTED — 1 vehicle(s), 1 object(s)
+2026-05-14 19:36:17  INFO  Human ongoing — 1 human(s), 1 vehicle(s), 0 object(s)
+2026-05-14 19:36:27  INFO  Human ongoing — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 19:36:34  INFO  Clip saved: recordings\clip_20260514_193607.avi
+2026-05-14 19:36:34  INFO  Session stopped.
+2026-05-14 19:36:34  INFO  HUMAN DETECTED — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 19:36:38  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 19:36:49  INFO  Vehicle ongoing — 10 vehicle(s), 0 object(s)
+2026-05-14 19:36:59  INFO  Vehicle ongoing — 3 vehicle(s), 0 object(s)
+2026-05-14 19:37:09  INFO  Vehicle ongoing — 5 vehicle(s), 0 object(s)
+2026-05-14 19:37:10  INFO  Clip saved: recordings\clip_20260514_193710.avi
+2026-05-14 19:37:10  INFO  Session stopped.
+2026-05-14 19:37:10  INFO  VEHICLE DETECTED — 5 vehicle(s), 0 object(s)
+2026-05-14 19:38:23  INFO  Session started: 13588791_2160_3840_100fps.mp4
+2026-05-14 19:38:24  INFO  VEHICLE DETECTED — 1 vehicle(s), 1 object(s)
+2026-05-14 19:38:34  INFO  Human ongoing — 1 human(s), 1 vehicle(s), 0 object(s)
+2026-05-14 19:38:44  INFO  Human ongoing — 1 human(s), 3 vehicle(s), 0 object(s)
+2026-05-14 19:38:54  INFO  Human ongoing — 1 human(s), 1 vehicle(s), 0 object(s)
+2026-05-14 19:39:01  INFO  Clip saved: recordings\clip_20260514_193824.avi
+2026-05-14 19:39:01  INFO  Session stopped.
+2026-05-14 19:39:10  INFO  Session started: 2745883-hd_1920_1080_25fps.mp4
+2026-05-14 19:39:10  INFO  VEHICLE DETECTED — 1 vehicle(s), 0 object(s)
+2026-05-14 19:39:19  INFO  Clip saved: recordings\clip_20260514_193910.avi
+2026-05-14 19:39:19  INFO  Session stopped.
+2026-05-14 19:39:19  INFO  VEHICLE DETECTED — 10 vehicle(s), 0 object(s)
+2026-05-14 19:40:00  INFO  Session started: 4293960-uhd_3840_2160_25fps.mp4
+2026-05-14 19:40:00  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:03  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:03  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:05  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:08  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:08  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:10  INFO  Human ongoing — 3 human(s), 0 vehicle(s), 8 object(s)
+2026-05-14 19:40:10  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:14  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:14  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:15  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:19  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:19  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:20  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 2 object(s)
+2026-05-14 19:40:20  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:24  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:24  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:25  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:30  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:30  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:30  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 2 object(s)
+2026-05-14 19:40:31  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:35  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:35  WARNING  \U0001f6a8 ALERT [restricted_object_moved] in zone 'zone–1'
+2026-05-14 19:40:36  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone–1'
+2026-05-14 19:40:40  INFO  Clip saved: recordings\clip_20260514_193919.avi
+2026-05-14 19:40:40  INFO  Session stopped.
+2026-05-14 19:40:40  INFO  HUMAN DETECTED — 2 human(s), 0 vehicle(s), 3 object(s)
+2026-05-14 19:44:46  INFO  Session started: 14490845-uhd_3840_2160_25fps.mp4
+2026-05-14 19:44:56  INFO  Human ongoing — 12 human(s), 9 vehicle(s), 0 object(s)
+2026-05-14 19:45:00  INFO  Clip saved: recordings\clip_20260514_194040.avi
+2026-05-14 19:45:00  INFO  Session stopped.
+2026-05-14 19:45:00  INFO  HUMAN DETECTED — 13 human(s), 9 vehicle(s), 0 object(s)
+2026-05-14 19:45:11  INFO  Session started: 4293960-uhd_3840_2160_25fps.mp4
+2026-05-14 19:45:21  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 9 object(s)
+2026-05-14 19:45:31  INFO  Clip saved: recordings\clip_20260514_194500.avi
+2026-05-14 19:45:31  INFO  Session stopped.
+2026-05-14 19:45:31  INFO  HUMAN DETECTED — 2 human(s), 0 vehicle(s), 2 object(s)
+2026-05-14 19:46:16  INFO  Session started: 4293960-uhd_3840_2160_25fps.mp4
+2026-05-14 19:46:16  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:21  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:26  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 9 object(s)
+2026-05-14 19:46:26  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:31  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:36  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 2 object(s)
+2026-05-14 19:46:36  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:41  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:46  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 2 object(s)
+2026-05-14 19:46:46  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:51  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:46:56  INFO  Clip saved: recordings\clip_20260514_194531.avi
+2026-05-14 19:46:56  INFO  Session stopped.
+2026-05-14 19:46:56  INFO  HUMAN DETECTED — 2 human(s), 0 vehicle(s), 3 object(s)
+2026-05-14 19:48:49  INFO  Session started: Webcam
+2026-05-14 19:48:50  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:48:55  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:48:59  INFO  Human ongoing — 5 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 19:49:00  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:02  INFO  Clip saved: recordings\clip_20260514_194656.avi
+2026-05-14 19:49:03  INFO  Session stopped.
+2026-05-14 19:49:03  INFO  HUMAN DETECTED — 5 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 19:49:15  INFO  Session started: Webcam
+2026-05-14 19:49:16  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:21  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:25  INFO  Human ongoing — 2 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 19:49:26  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:31  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:35  INFO  Human ongoing — 1 human(s), 0 vehicle(s), 0 object(s)
+2026-05-14 19:49:36  WARNING  \U0001f6a8 ALERT [zone_breached] in zone 'zone1'
+2026-05-14 19:49:40  INFO  Clip saved: recordings\clip_20260514_194902.avi
+2026-05-14 19:49:40  INFO  Session stopped.
