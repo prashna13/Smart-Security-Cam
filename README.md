@@ -1,6 +1,6 @@
 # Smart Security Camera System
-### CSY3058 Media Technology — Assignment 1
-### Warehouse Unauthorized Access Detection
+### 
+### Object detection/Warehouse Unauthorized Access Detection
 
 ---
 
